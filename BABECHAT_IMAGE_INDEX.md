@@ -6,10 +6,10 @@ GitHub に実在するPNG画像だけを列挙しています。画像URLは `ht
 
 ## BabeChat設定集にコピーする短文（各500文字以内）
 
-### 小鳥遊みつき（mitsuki、16枚）
+### 小鳥遊みつき（mitsuki、18枚）
 
 ```text
-【小鳥遊みつき画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/ 。画像名=mitsuki_コード.png。場面→コード：青魔法=bmahou、昼デート=date、議論=gironn、怒り=ikari、会話=kaiwa、悲しみ=kanashii、ランチ=lunch、睡眠=neru、ピンチ=pinchi、武器戦闘=sentou、私服=shihuku、拗ねる=suneru、照れ=tereru、白青魔法=wbmahou、白魔法=wmahou、夜デート=yorudate。必要な場面だけ実際の完全なURLでMarkdown画像を1枚表示。存在しない画像名は作らない。
+【小鳥遊みつき画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/ 。画像名=mitsuki_コード.png。場面→コード：青魔法=bmahou、昼デート=date、議論=gironn、怒り=ikari、会話=kaiwa、悲しみ=kanashii、ランチ=lunch、睡眠=neru、ピンチ=pinchi、武器戦闘=sentou、私服=shihuku、拗ねる=suneru、照れ=tereru、白青魔法=wbmahou、青白魔法の追加版=bwmahou、プロフィール=plf、白魔法=wmahou、夜デート=yorudate。必要な場面だけ実際の完全なURLでMarkdown画像を1枚表示。存在しない画像名は作らない。
 ```
 
 ### 東雲みゆ（miyu、16枚）
@@ -54,10 +54,10 @@ GitHub に実在するPNG画像だけを列挙しています。画像URLは `ht
 【棚橋もえ画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/moe/ 。画像名=moe_コード.png。場面→コード：昼デート=date、会話=kaiwa、悲しみ=kanashii、ランチ=lunch、怒り=okoru、ピンチ=pinchi、赤青緑魔法=rbgmahou、赤青魔法=rbmahou、赤魔法=rmahou、武器戦闘=sentou、私服=shihuku、照れ=tereru、喜び=yorokobu、夜デート=yorudate。必要な場面だけ実際の完全なURLでMarkdown画像を1枚表示。存在しない画像名は作らない。
 ```
 
-### ヴェルグレス（vel、13枚）
+### ヴェルグレス（vel、14枚）
 
 ```text
-【ヴェルグレス画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/vel/ 。画像名=vel_コード.png。場面→コード：昼デート=date、会話=kaiwa、悲しみ=kanashii、ランチ=lunch、驚き=odoroku、怒り=okoru、ピンチ=pinch、赤魔法=rmahou、武器戦闘=sentou、照れ=tereru、白赤黒魔法=wrdmahou、喜び=yorokobu、夜デート=yorudate。必要な場面だけ実際の完全なURLでMarkdown画像を1枚表示。存在しない画像名は作らない。
+【ヴェルグレス画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/vel/ 。画像名=vel_コード.png。場面→コード：昼デート=date、会話=kaiwa、悲しみ=kanashii、ランチ=lunch、驚き=odoroku、怒り=okoru、ピンチ=pinch、黒魔法=dmahou、赤魔法=rmahou、武器戦闘=sentou、照れ=tereru、白赤黒魔法=wrdmahou、喜び=yorokobu、夜デート=yorudate。必要な場面だけ実際の完全なURLでMarkdown画像を1枚表示。存在しない画像名は作らない。
 ```
 
 ### 榊原れい（rei、3枚）
@@ -313,3 +313,124 @@ GitHub に実在するPNG画像だけを列挙しています。画像URLは `ht
 ```
 
 BabeChat側ではURLを数式のまま表示せず、毎回完成済みのURLに展開すること。テキストINFOは回答末尾に配置すること。
+
+
+## 2026-10-15 追加整理画像
+
+以下は新規追加した画像の整理先です。既存のルート画像は削除していません。すでに整理済みの `mitsuki/` では、ルートへアップロードされた新しい `bmahou`・`wmahou`・`pinchi`・`sentou` を同名ファイルに反映しています。古い `mitsuki_wbmahou.png` は残し、新しい `mitsuki_bwmahou.png` は別ファイルとして追加しました。
+
+### ゲイルハート王立の大会代表
+
+フィオナ=緑白・長弓、マリナ=緑・魔導杖
+
+- [`fiona/fiona_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/fiona/fiona_kaiwa.png)
+- [`fiona/fiona_sentou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/fiona/fiona_sentou.png)
+- [`marina/marina_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/marina/marina_kaiwa.png)
+- [`marina/marina_sentou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/marina/marina_sentou.png)
+
+### シエル国立の大会代表
+
+セラ=赤青・細剣、ニナ=青赤・双短剣
+
+- [`serra/serra_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/serra/serra_kaiwa.png)
+- [`serra/serra_sentou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/serra/serra_sentou.png)
+- [`nina/nina_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/nina/nina_kaiwa.png)
+- [`nina/nina_sentou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/nina/nina_sentou.png)
+
+### グランディール国立の大会代表
+
+クラウディア=白黒・長槍、ユディト=黒・魔導書
+
+- [`claudia/claudia_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/claudia/claudia_kaiwa.png)
+- [`claudia/claudia_sentou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/claudia/claudia_sentou.png)
+- [`yudit/yudit_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_kaiwa.png)
+- [`yudit/yudit_sentou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_sentou.png)
+
+### アマテラス学園長
+
+九条透子。会話=kujo_kaiwa.png
+
+- [`kujo/kujo_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/kujo/kujo_kaiwa.png)
+
+### 異界の皇帝とジェネラル
+
+皇帝=koutei_kaiwa.png、将軍=general_kaiwa.png
+
+- [`koutei/koutei_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/koutei/koutei_kaiwa.png)
+- [`general/general_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/general/general_kaiwa.png)
+
+### 外壁領域の世界喰らい
+
+出現=sekaigurai_shutugen.png、戦闘=sekaigurai_sentou.png。裏ボス。
+
+- [`sekaigurai/sekaigurai_sentou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/sekaigurai/sekaigurai_sentou.png)
+- [`sekaigurai/sekaigurai_shutugen.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/sekaigurai/sekaigurai_shutugen.png)
+
+### 主人公の無色魔法
+
+滅殺魔法=shujinkou_nmahou.png、追加例=nmahou2.png・nmahou3.png。
+
+- [`shujinkou/shujinkou_nmahou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/shujinkou_nmahou.png)
+- [`shujinkou/shujinkou_nmahou2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/shujinkou_nmahou2.png)
+- [`shujinkou/shujinkou_nmahou3.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/shujinkou_nmahou3.png)
+
+### 既存キャラクターの追加・更新
+
+- [`mitsuki/mitsuki_bmahou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/mitsuki_bmahou.png)（既存フォルダ画像を新しい画像に更新）
+- [`mitsuki/mitsuki_bwmahou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/mitsuki_bwmahou.png)（新規追加）
+- [`mitsuki/mitsuki_pinchi.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/mitsuki_pinchi.png)（既存フォルダ画像を新しい画像に更新）
+- [`mitsuki/mitsuki_plf.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/mitsuki_plf.png)（新規追加）
+- [`mitsuki/mitsuki_sentou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/mitsuki_sentou.png)（既存フォルダ画像を新しい画像に更新）
+- [`mitsuki/mitsuki_wmahou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/mitsuki_wmahou.png)（既存フォルダ画像を新しい画像に更新）
+- [`vel/vel_dmahou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/vel/vel_dmahou.png)（新規追加）
+
+### BabeChat設定集用・追加画像の短文
+
+#### ゲイルハート王立の大会代表
+
+```text
+【ゲイルハート王立の大会代表画像】フィオナ=緑白・長弓、マリナ=緑・魔導杖 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/fiona/、fiona_kaiwa.png・fiona_sentou.png。 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/marina/、marina_kaiwa.png・marina_sentou.png
+```
+
+#### シエル国立の大会代表
+
+```text
+【シエル国立の大会代表画像】セラ=赤青・細剣、ニナ=青赤・双短剣 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/serra/、serra_kaiwa.png・serra_sentou.png。 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/nina/、nina_kaiwa.png・nina_sentou.png
+```
+
+#### グランディール国立の大会代表
+
+```text
+【グランディール国立の大会代表画像】クラウディア=白黒・長槍、ユディト=黒・魔導書 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/claudia/、claudia_kaiwa.png・claudia_sentou.png。 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/、yudit_kaiwa.png・yudit_sentou.png
+```
+
+#### アマテラス学園長
+
+```text
+【アマテラス学園長画像】九条透子。会話=kujo_kaiwa.png 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/kujo/、kujo_kaiwa.png
+```
+
+#### 異界の皇帝とジェネラル
+
+```text
+【異界の皇帝とジェネラル画像】皇帝=koutei_kaiwa.png、将軍=general_kaiwa.png 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/koutei/、koutei_kaiwa.png。 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/general/、general_kaiwa.png
+```
+
+#### 外壁領域の世界喰らい
+
+```text
+【外壁領域の世界喰らい画像】出現=sekaigurai_shutugen.png、戦闘=sekaigurai_sentou.png。裏ボス。 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/sekaigurai/、sekaigurai_sentou.png・sekaigurai_shutugen.png
+```
+
+#### 主人公の無色魔法
+
+```text
+【主人公の無色魔法画像】滅殺魔法=shujinkou_nmahou.png、追加例=nmahou2.png・nmahou3.png。 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/、shujinkou_nmahou.png・shujinkou_nmahou2.png・shujinkou_nmahou3.png
+```
+
+#### みつき・ヴェルグレス追加
+
+```text
+【みつき追加画像】https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/ の mitsuki_plf.png=人物プロフィール、mitsuki_bwmahou.png=青白魔法の別構図。bmahou・wmahou・pinchi・sentou は整理先の画像も更新済み。
+【ヴェルグレス黒魔法】https://raw.githubusercontent.com/taku2214/amaterasu-images/main/vel/vel_dmahou.png。
+```
