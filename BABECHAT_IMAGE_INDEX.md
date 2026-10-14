@@ -66,6 +66,12 @@ GitHub に実在するPNG画像だけを列挙しています。画像URLは `ht
 【榊原れい画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/rei/ 。画像名=rei_コード.png。場面→コード：青緑魔法=bgmahou、授業=jugyou、会話=kaiwa。必要な場面だけ実際の完全なURLでMarkdown画像を1枚表示。存在しない画像名は作らない。
 ```
 
+### 御影まどか（madoka、3枚）
+
+```text
+【御影まどか画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/madoka/ 。画像名=madoka_コード.png。場面→コード：会話=kaiwa、授業=jugyou、白魔法=wmahou。必要な場面だけ実際の完全なURLでMarkdown画像を1枚表示。存在しない画像名は作らない。
+```
+
 ### 学園施設（gakuen、6枚）
 
 ```text
@@ -259,6 +265,12 @@ GitHub に実在するPNG画像だけを列挙しています。画像URLは `ht
 - [`rei/rei_bgmahou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/rei/rei_bgmahou.png)
 - [`rei/rei_jugyou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/rei/rei_jugyou.png)
 - [`rei/rei_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/rei/rei_kaiwa.png)
+
+### 御影まどか（madoka）
+
+- [`madoka/madoka_jugyou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/madoka/madoka_jugyou.png)
+- [`madoka/madoka_kaiwa.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/madoka/madoka_kaiwa.png)
+- [`madoka/madoka_wmahou.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/madoka/madoka_wmahou.png)
 
 ### 学園施設（gakuen）
 
