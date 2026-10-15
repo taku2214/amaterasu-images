@@ -463,13 +463,14 @@ BabeChat側ではURLを数式のまま表示せず、毎回完成済みのURLに
 
 ### 外壁領域の追加画像
 
-外壁領域での魔族の襲撃、巨獣、滝の麓に咲く虹色の水蓮。元ファイルの `gauheki_mazoku.png` の綴りは既存URLとの互換性のためそのまま保持。
+外壁領域での魔族の襲撃、巨獣、滝の麓に咲く虹色の水蓮。正規ファイル名を `gaiheki_mazoku.png` に統一。旧名 `gauheki_mazoku.png` の画像も既存URL互換用に残す。
 
 ```text
-【外壁領域追加画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/ 。中下級魔族の襲撃=gauheki_mazoku.png、巨獣=gaiheki_monster3.png、虹色の水蓮=gaiheki_suirenn.png。実在ファイル名を変えずに完全URLでMarkdown表示。
+【外壁領域追加画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/ 。中下級魔族の襲撃=gaiheki_mazoku.png、巨獣=gaiheki_monster3.png、虹色の水蓮=gaiheki_suirenn.png。実在ファイル名を変えずに完全URLでMarkdown表示。
 ```
 
 
 - [`gaiheki/gaiheki_monster3.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gaiheki_monster3.png)
 - [`gaiheki/gaiheki_suirenn.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gaiheki_suirenn.png)
-- [`gaiheki/gauheki_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gauheki_mazoku.png)
+- [`gaiheki/gaiheki_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gaiheki_mazoku.png)（正規）
+- [`gaiheki/gauheki_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gauheki_mazoku.png)（旧名、互換用）
