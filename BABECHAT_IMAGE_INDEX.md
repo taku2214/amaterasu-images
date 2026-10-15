@@ -434,3 +434,42 @@ BabeChat側ではURLを数式のまま表示せず、毎回完成済みのURLに
 【みつき追加画像】https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/ の mitsuki_plf.png=人物プロフィール、mitsuki_bwmahou.png=青白魔法の別構図。bmahou・wmahou・pinchi・sentou は整理先の画像も更新済み。
 【ヴェルグレス黒魔法】https://raw.githubusercontent.com/taku2214/amaterasu-images/main/vel/vel_dmahou.png。
 ```
+
+
+## 2026-10-15 モブ生徒と外壁領域の追加画像
+
+アマテラス国立魔法学園の名無しのC・B・A級生徒6人。各人の会話／戦闘は同じ階級と番号で対応します。既存のルート階層画像は消さずに残しています。
+
+### モブ生徒：BabeChat設定集用・画像対応（12枚）
+
+```text
+【モブ生徒画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/。C-1=mob_ckaiwa1.png／mob_csentou1.png、C-2=mob_ckaiwa2.png／mob_csentou2.png、B-1=mob_bkaiwa1.png／mob_bsentou1.png、B-2=mob_bkaiwa2.png／mob_bsentou2.png、A-1=mob_akaiwa1.png／mob_asentou1.png、A-2=mob_akaiwa2.png／mob_asentou2.png。左は演習場での会話、右は訓練戦闘。同一番号を同一生徒として扱い、基底URLとファイル名を連結しMarkdown画像表示。
+```
+
+### モブ生徒ファイル一覧
+
+- [`mob/mob_akaiwa1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_akaiwa1.png)
+- [`mob/mob_akaiwa2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_akaiwa2.png)
+- [`mob/mob_asentou1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_asentou1.png)
+- [`mob/mob_asentou2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_asentou2.png)
+- [`mob/mob_bkaiwa1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_bkaiwa1.png)
+- [`mob/mob_bkaiwa2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_bkaiwa2.png)
+- [`mob/mob_bsentou1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_bsentou1.png)
+- [`mob/mob_bsentou2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_bsentou2.png)
+- [`mob/mob_ckaiwa1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_ckaiwa1.png)
+- [`mob/mob_ckaiwa2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_ckaiwa2.png)
+- [`mob/mob_csentou1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_csentou1.png)
+- [`mob/mob_csentou2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_csentou2.png)
+
+### 外壁領域の追加画像
+
+外壁領域での魔族の襲撃、巨獣、滝の麓に咲く虹色の水蓮。元ファイルの `gauheki_mazoku.png` の綴りは既存URLとの互換性のためそのまま保持。
+
+```text
+【外壁領域追加画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/ 。中下級魔族の襲撃=gauheki_mazoku.png、巨獣=gaiheki_monster3.png、虹色の水蓮=gaiheki_suirenn.png。実在ファイル名を変えずに完全URLでMarkdown表示。
+```
+
+
+- [`gaiheki/gaiheki_monster3.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gaiheki_monster3.png)
+- [`gaiheki/gaiheki_suirenn.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gaiheki_suirenn.png)
+- [`gaiheki/gauheki_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gauheki_mazoku.png)
