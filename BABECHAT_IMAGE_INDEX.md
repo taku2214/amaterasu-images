@@ -425,7 +425,7 @@ BabeChat側ではURLを数式のまま表示せず、毎回完成済みのURLに
 #### 主人公の無色魔法
 
 ```text
-【主人公の無色魔法画像】滅殺魔法=shujinkou_nmahou.png、追加例=nmahou2.png・nmahou3.png。 基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/、shujinkou_nmahou.png・shujinkou_nmahou2.png・shujinkou_nmahou3.png
+【主人公の無色魔法画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/。滅殺魔法=shujinkou_nmahou.png、追加術式=shujinkou_nmahou2.png・shujinkou_nmahou3.png、広域最終奥義（周囲を塵に帰す灰色の光）=shujinkou_nmahou4.png。主人公の容姿・顔は断定せず、灰色の光で秘匿する。
 ```
 
 #### みつき・ヴェルグレス追加
@@ -474,3 +474,7 @@ BabeChat側ではURLを数式のまま表示せず、毎回完成済みのURLに
 - [`gaiheki/gaiheki_suirenn.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gaiheki_suirenn.png)
 - [`gaiheki/gaiheki_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gaiheki_mazoku.png)（正規）
 - [`gaiheki/gauheki_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gaiheki/gauheki_mazoku.png)（旧名、互換用）
+
+### 主人公の無色魔法・追加画像（2026-10-15）
+
+- [`shujinkou/shujinkou_nmahou4.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/shujinkou_nmahou4.png) ：広域滅殺奥義。主人公を小さく描き、灰色の光が周囲を塵に変える場面。元の `shujinkou_mmahou_4.png` も互換性のため残す。
