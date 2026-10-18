@@ -478,3 +478,112 @@ BabeChat側ではURLを数式のまま表示せず、毎回完成済みのURLに
 ### 主人公の無色魔法・追加画像（2026-10-15）
 
 - [`shujinkou/shujinkou_nmahou4.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/shujinkou_nmahou4.png) ：広域滅殺奥義。主人公を小さく描き、灰色の光が周囲を塵に変える場面。元の `shujinkou_mmahou_4.png` も互換性のため残す。
+
+
+## 2026-10-18 好感度100・キス・学園施設などの画像整理
+
+追加画像をキャラクター／施設別フォルダにも配置。**ルートの画像ファイルは削除せず、既存URLを維持。** 同名ファイルは同一画像データです。`moba_koukando100_c1.png` のみ整理先で `mob_koukando100_c1.png` に正規化（元名のルート画像も保持）。
+
+### claudia/ 
+
+- [`claudia/claudia_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/claudia/claudia_koukando100.png)
+
+### eleonor/ 
+
+- [`eleonor/eleonor_kiss.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/eleonor/eleonor_kiss.png)
+- [`eleonor/eleonor_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/eleonor/eleonor_koukando100.png)
+
+### fiona/ 
+
+- [`fiona/fiona_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/fiona/fiona_koukando100.png)
+
+### gakuen/ 
+
+- [`gakuen/gakuen_joshiryo.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gakuen/gakuen_joshiryo.png)
+- [`gakuen/gakuen_shujinkouryo.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gakuen/gakuen_shujinkouryo.png)
+
+### izorde/ 
+
+- [`izorde/izorde_kiss.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/izorde/izorde_kiss.png)
+- [`izorde/izorde_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/izorde/izorde_koukando100.png)
+
+### marina/ 
+
+- [`marina/marina_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/marina/marina_koukando100.png)
+
+### mitsuki/ 
+
+- [`mitsuki/mitsuki_kiss.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/mitsuki_kiss.png)
+- [`mitsuki/mitsuki_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mitsuki/mitsuki_koukando100.png)
+
+### miyu/ 
+
+- [`miyu/miyu_kiss.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/miyu/miyu_kiss.png)
+- [`miyu/miyu_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/miyu/miyu_koukando100.png)
+
+### mob/ 
+
+- [`mob/mob_koukando100_a1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_koukando100_a1.png)
+- [`mob/mob_koukando100_a2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_koukando100_a2.png)
+- [`mob/mob_koukando100_b1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_koukando100_b1.png)
+- [`mob/mob_koukando100_b2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_koukando100_b2.png)
+- [`mob/mob_koukando100_c2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_koukando100_c2.png)
+- [`mob/mob_koukando100_c1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/mob_koukando100_c1.png)（原本 `moba_koukando100_c1.png`）
+
+### moe/ 
+
+- [`moe/moe_kiss.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/moe/moe_kiss.png)
+- [`moe/moe_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/moe/moe_koukando100.png)
+
+### nina/ 
+
+- [`nina/nina_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/nina/nina_koukando100.png)
+
+### rei/ 
+
+- [`rei/rei_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/rei/rei_koukando100.png)
+
+### rio/ 
+
+- [`rio/rio_kiss.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/rio/rio_kiss.png)
+- [`rio/rio_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/rio/rio_koukando100.png)
+
+### serra/ 
+
+- [`serra/serra_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/serra/serra_koukando100.png)
+
+### shino/ 
+
+- [`shino/shino_kiss.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shino/shino_kiss.png)
+- [`shino/shino_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shino/shino_koukando100.png)
+
+### shujinkou/ 
+
+- [`shujinkou/shujinkou_mmahou_1.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/shujinkou_mmahou_1.png)
+- [`shujinkou/shujinkou_mmahou_2.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/shujinkou_mmahou_2.png)
+- [`shujinkou/shujinkou_mmahou_3.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/shujinkou_mmahou_3.png)
+- [`shujinkou/shujinkou_mmahou_4.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/shujinkou_mmahou_4.png)
+
+### sumire/ 
+
+- [`sumire/sumire_kiss.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/sumire/sumire_kiss.png)
+- [`sumire/sumire_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/sumire/sumire_koukando100.png)
+
+### vel/ 
+
+- [`vel/vel_kiss.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/vel/vel_kiss.png)
+- [`vel/vel_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/vel/vel_koukando100.png)
+
+### yudit/ 
+
+- [`yudit/yudit_koukando100.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_koukando100.png)
+
+### BabeChat設定集用・追加画像指定
+
+```text
+【好感度100専用画像】好感度が100のNPCとの会話では、キャラクター別の画像基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/＜キャラID＞/ に ＜キャラID＞_koukando100.png を連結して表示する。対象は claudia, eleonor, fiona, izorde, marina, mitsuki, miyu, moe, nina, rei, rio, serra, shino, sumire, vel, yudit。瞳にハートが入る好感度100の画像を優先する。
+【モブ生徒の好感度100画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/mob/ 。A-1=mob_koukando100_a1.png、A-2=mob_koukando100_a2.png、B-1=mob_koukando100_b1.png、B-2=mob_koukando100_b2.png、C-1=mob_koukando100_c1.png、C-2=mob_koukando100_c2.png。同一階級と番号を同一人物として扱う。C-1の元ファイル名 moba_koukando100_c1.png もルート階層で保持。
+【キス専用画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/＜キャラID＞/。eleonor, izorde, mitsuki, miyu, moe, rio, shino, sumire, vel の ＜キャラID＞_kiss.png を追加。本人が合意したキス場面で使用する。
+【学園施設画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gakuen/。女子寮=gakuen_joshiryo.png、主人公寮=gakuen_shujinkouryo.png。
+【主人公の魔法・旧名互換】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/。shujinkou_mmahou_1.png、shujinkou_mmahou_2.png、shujinkou_mmahou_3.png、shujinkou_mmahou_4.png は元ファイル名のまま整理済み。既存の nmahou 系画像も保持し、参照先を混同しない。
+```
