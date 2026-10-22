@@ -587,3 +587,39 @@ BabeChat側ではURLを数式のまま表示せず、毎回完成済みのURLに
 【学園施設画像】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/gakuen/。女子寮=gakuen_joshiryo.png、主人公寮=gakuen_shujinkouryo.png。
 【主人公の魔法・旧名互換】基底URL=https://raw.githubusercontent.com/taku2214/amaterasu-images/main/shujinkou/。shujinkou_mmahou_1.png、shujinkou_mmahou_2.png、shujinkou_mmahou_3.png、shujinkou_mmahou_4.png は元ファイル名のまま整理済み。既存の nmahou 系画像も保持し、参照先を混同しない。
 ```
+
+## 2026-10-22 追加画像（キャラクター別整理）
+
+GitHubルートへアップロードされた18枚を、既存画像を消さずキャラクター別フォルダにコピー。従来のルートURLと整理後のフォルダURLは両方利用可能。ファイル名は変更しない。
+
+### フィオナ：感情・ピンチ
+
+- [`fiona/fiona_odoroku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/fiona/fiona_odoroku.png)
+- [`fiona/fiona_okoru.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/fiona/fiona_okoru.png)
+- [`fiona/fiona_pinchi.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/fiona/fiona_pinchi.png)
+- [`fiona/fiona_tereru.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/fiona/fiona_tereru.png)
+- [`fiona/fiona_yorokobu.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/fiona/fiona_yorokobu.png)
+
+### イゾルデ：魔族本来の姿（秘匿）
+
+- [`izorde/izorde_dmahou_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/izorde/izorde_dmahou_mazoku.png)
+- [`izorde/izorde_kaiwa_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/izorde/izorde_kaiwa_mazoku.png)
+- [`izorde/izorde_rdmahou_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/izorde/izorde_rdmahou_mazoku.png)
+- [`izorde/izorde_rmahou_mazoku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/izorde/izorde_rmahou_mazoku.png)
+
+### セラ：感情・ピンチ
+
+- [`serra/serra_odoroku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/serra/serra_odoroku.png)
+- [`serra/serra_okoru.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/serra/serra_okoru.png)
+- [`serra/serra_pinchi.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/serra/serra_pinchi.png)
+- [`serra/serra_tereru.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/serra/serra_tereru.png)
+- [`serra/serra_yorokobu.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/serra/serra_yorokobu.png)
+
+### ユディト：感情
+
+- [`yudit/yudit_odoroku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_odoroku.png)
+- [`yudit/yudit_okoru.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_okoru.png)
+- [`yudit/yudit_tereru.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_tereru.png)
+- [`yudit/yudit_yorokobu.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_yorokobu.png)
+
+イゾルデの `_mazoku` は角のある魔族の真身。正体が未発覚の場面では使用しない。魔法名の対応：`dmahou`＝黒、`rmahou`＝赤、`rdmahou`＝赤黒。英字IDは `izorde`、`serra`、`yudit` のまま固定して綴りを自動変換しない。
