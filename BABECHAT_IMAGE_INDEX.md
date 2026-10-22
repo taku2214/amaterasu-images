@@ -623,3 +623,21 @@ GitHubルートへアップロードされた18枚を、既存画像を消さず
 - [`yudit/yudit_yorokobu.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_yorokobu.png)
 
 イゾルデの `_mazoku` は角のある魔族の真身。正体が未発覚の場面では使用しない。魔法名の対応：`dmahou`＝黒、`rmahou`＝赤、`rdmahou`＝赤黒。英字IDは `izorde`、`serra`、`yudit` のまま固定して綴りを自動変換しない。
+
+## 2026-10-22 追加画像（第2回）
+
+GitHubルートに追加された6枚を既存画像を削除せずキャラクター別フォルダへ整理。元のルートURLも引き続き使用可能。
+
+### クラウディア：喜び・照れ・怒り・驚き・ピンチ
+
+- [`claudia/claudia_odoroku.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/claudia/claudia_odoroku.png)
+- [`claudia/claudia_okoru.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/claudia/claudia_okoru.png)
+- [`claudia/claudia_pinchi.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/claudia/claudia_pinchi.png)
+- [`claudia/claudia_tereru.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/claudia/claudia_tereru.png)
+- [`claudia/claudia_yorokobu.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/claudia/claudia_yorokobu.png)
+
+### ユディト：ピンチ
+
+- [`yudit/yudit_pinchi.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_pinchi.png)
+
+画像IDは `claudia` と `yudit` を維持。怒りは `okoru`、驚きは `odoroku`、ピンチは `pinchi` として参照する。
