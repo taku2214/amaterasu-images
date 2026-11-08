@@ -641,3 +641,7 @@ GitHubルートに追加された6枚を既存画像を削除せずキャラク�
 - [`yudit/yudit_pinchi.png`](https://raw.githubusercontent.com/taku2214/amaterasu-images/main/yudit/yudit_pinchi.png)
 
 画像IDは `claudia` と `yudit` を維持。怒りは `okoru`、驚きは `odoroku`、ピンチは `pinchi` として参照する。
+
+## 短縮画像URL（新方式）
+
+新規画像はキャラクター別フォルダへ短縮名で配置。コード一覧と旧名対応表は [SHORT_IMAGE_INDEX.md](SHORT_IMAGE_INDEX.md) を参照。旧画像ファイルとURLは互換性維持のためすべて残しています。魔法は `wm1.png` など属性＋枝番、魔族姿は `zk.png` や `zdm1.png` とします。
